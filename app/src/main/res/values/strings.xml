@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">food</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recipes">Recipes</string>
+    <string name="joke">Joke</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="loading">loading</string>
+    <string name="Favorite">Favorite</string>
+</resources>
